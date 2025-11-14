@@ -6,7 +6,7 @@ This guide walks you through configuring PowerShell, Starship, and Windows Termi
 https://starship.rs/
 ---
 
-## 🔧 **1. Verify Your PowerShell Profile**
+## **1. Verify Your PowerShell Profile**
 Check whether your PowerShell profile file exists:
 
 ```powershell
@@ -21,7 +21,7 @@ New-Item -Path $PROFILE -ItemType File -Force
 
 ---
 
-## ✏️ **2. Edit Your PowerShell Profile**
+## **2. Edit Your PowerShell Profile**
 Open the profile file:
 
 ```powershell
@@ -36,7 +36,7 @@ Invoke-Expression (&starship init powershell)
 
 ---
 
-## 🔓 **3. Allow Your Profile to Run**
+## **3. Allow Your Profile to Run**
 Unblock just the profile file:
 
 ```powershell
@@ -51,7 +51,7 @@ Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
 
 ---
 
-## 🎨 **4. Install / Edit Your Starship Preset**
+## **4. Install / Edit Your Starship Preset**
 Open the Starship configuration file:
 
 ```powershell
@@ -62,7 +62,7 @@ Paste in the **Ashborne Neon preset** (your custom theme).
 
 ---
 
-## 🪟 **5. Configure Windows Terminal**
+## **5. Configure Windows Terminal**
 
 Press:
 
@@ -72,7 +72,7 @@ to open Windows Terminal Settings.
 
 ---
 
-## ⚙️ **6. Select the Terminal Profile**
+## **6. Select the Terminal Profile**
 Navigate to:
 
 **Profiles → (Defaults or Windows PowerShell)**  
@@ -80,7 +80,7 @@ Navigate to:
 
 ---
 
-## 🎨 **7. Appearance Settings**
+## **7. Appearance Settings**
 
 Inside the profile’s **Appearance** tab, apply the following:
 
@@ -108,7 +108,7 @@ Inside the profile’s **Appearance** tab, apply the following:
 
 ---
 
-## ✔️ Setup Complete
+## Setup Complete
 
 <img width="1862" height="976" alt="image" src="https://github.com/user-attachments/assets/1d33b53f-f58d-49f3-8bbd-880a52f473b1" />
 

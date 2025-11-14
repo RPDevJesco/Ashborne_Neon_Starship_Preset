@@ -107,3 +107,6 @@ Inside the profile’s **Appearance** tab, apply the following:
 ---
 
 ## ✔️ Setup Complete
+
+<img width="1862" height="976" alt="image" src="https://github.com/user-attachments/assets/1d33b53f-f58d-49f3-8bbd-880a52f473b1" />
+

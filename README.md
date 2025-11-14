@@ -1,7 +1,9 @@
 # **Ashborne Neon Preset — Setup Guide**
 
 This guide walks you through configuring PowerShell, Starship, and Windows Terminal to use the **Ashborne Neon** aesthetic preset.
-Make sure to have https://starship.rs/ installed on your machine.
+
+## **0. Install starhsip**
+https://starship.rs/
 ---
 
 ## 🔧 **1. Verify Your PowerShell Profile**
